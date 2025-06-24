@@ -1,0 +1,30 @@
+[
+  {
+    "latitude": "12.9716",
+    "longitude": "77.5946"
+  },
+  {
+    "user_id": 101,
+    "name": "Cab1",
+    "latitude": "12.9806",
+    "longitude": "77.5946"
+  },
+  {
+    "user_id": 102,
+    "name": "Cab2",
+    "latitude": "12.9806",
+    "longitude": "77.6036"
+  },
+  {
+    "user_id": 103,
+    "name": "Cab3",
+    "latitude": "12.9626",
+    "longitude": "77.5946"
+  },
+  {
+    "user_id": 104,
+    "name": "Cab4",
+    "latitude": "12.9806",
+    "longitude": "77.5856"
+  }
+]
